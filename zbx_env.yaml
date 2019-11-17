@@ -1,0 +1,13 @@
+# Variables about zbx user and password
+zbx_GUI_usr: Admin
+zbx_GUI_pw: zabbix
+zbx_db_name: zabbix
+zbx_db_usr: root
+zbx_db_pw: 1234
+
+# Define a ip if vip cannot be used. e.g. 129.22.50.132
+zbx_ip: ''
+
+# Define template name that you want to create,
+# otherwise you need to input during the runing.
+TEMPLATE_NAME: ''
